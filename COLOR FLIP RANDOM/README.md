@@ -1,4 +1,4 @@
-# CONTADOR
+# COLOR FLIP RANDOM
 
 ![preview](preview.png)
 
