@@ -3,7 +3,7 @@
 # TODO DIA COM JS
 <br>
 
-    Neste projeto tenho como objetivos aprender javascript com a pratica, assim fazendo um projeto novo e commit todos os dias.
+  Neste projeto tenho como objetivosaprender javascript com a pratica, assimfazendo um projeto novo e commit todosos dias.
 
 <br>
 
